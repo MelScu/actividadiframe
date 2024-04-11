@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(0, 0, 62); border: 1px; padding: 4px; margin: 4px; color: rgb(161, 90, 144); font-style: italic; 
+    /* no puedo poner la imagen */
+}
+.principal{
+    color: azure; 
+}
+.home {
+    color: rgb(115, 164, 207);
+ }
